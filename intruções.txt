@@ -1,0 +1,14 @@
+git config --global user.name "muriloreis"
+git config --global user.email "muriloreis030684@outlook.com"
+
+git clone https://github.com/muriloreis23/Curriculo.git     
+
+
+
+
+
+git add .
+
+git commit -m "modificação" 
+
+git push
